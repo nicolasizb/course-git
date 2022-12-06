@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem 2.5rem;
+
+    background-color: darkgray;
+}
+
+header .container__list {
+    display: flex;
+    list-style: none;
+}
+header .container__list li {
+    display: inline-block;
+    margin: 0 0.3rem;
+}
+header .container__list li a {
+    text-decoration: none;
+
+    color: black;
+}
