@@ -27,3 +27,8 @@ header .container__list li a {
 
     color: black;
 }
+main .container__section {
+    margin: 2rem;
+    text-align: center;
+    font-size: 1.6rem;
+}
