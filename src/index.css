@@ -10,7 +10,6 @@ header {
     display: flex;
     justify-content: space-between;
     padding: 1.5rem 2.5rem;
-
     background-color: darkgray;
 }
 
@@ -31,4 +30,12 @@ main .container__section {
     margin: 2rem;
     text-align: center;
     font-size: 1.6rem;
+}
+footer .container__author {
+    margin: 0;
+    padding: 0 auto;
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: blue;
 }
